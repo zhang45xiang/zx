@@ -1,0 +1,5 @@
+#!/bin/bash
+:<<BLOCK
+BLOCK
+
+README
